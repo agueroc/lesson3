@@ -13,7 +13,7 @@ header h1 {margin: 0; font-size: 1.3rem;
 header h2 {margin: 0; font-weight: normal;font-size: 1rem;}
 nav {
     background-color: antiquewhite;
-    width: 700px;
+    
 }
 nav ul {
     list-style-type: none;
