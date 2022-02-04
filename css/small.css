@@ -45,14 +45,17 @@ p {
     color:#fff;
     background-color: #001011;
     width: 250px;
+    padding: .3rem;
 }
 #header_footer {
     background-color: bisque;
     width: 250px;
+    padding: .3rem;
 }
 #hover {
     background-color: rgb(0, 0, 250);
     width: 250px;
+    padding: .3rem;
 }
 footer {
     background-color: bisque;
